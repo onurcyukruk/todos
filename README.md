@@ -1,2 +1,2 @@
 # Todos
-Emacs org files for todos and done tasks
+Emacs org files for todos and done tasks.
