@@ -1,6 +1,2 @@
-* TODO mkdir ~/huntskell huntcommands.org, amass config, <2020-02-13 Thu>
-* TODO huntcommands.org + auto yank to terminal with xdo <2020-02-13 Thu>
-* DONE tmux local remote config <2020-02-13 Thu>
-* DONE resolver cleanup oneliner ->  clean resolver.txt from ipv6 addresses
-* TODO rsync remote and local folders with crontab 
-* TODO check amass.log and remove bad dns servers 
+* TODO sign packets with your name -> let them know where to compalin
+* TODO oneliners.sh + auto yank to terminal with xdo
