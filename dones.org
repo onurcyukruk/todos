@@ -8,3 +8,5 @@
 * DONE oneliner -> # clean dns resolvers from amass.logs 
 * DONE write a oneliner for extracting domain names from amass.json
 * DONE install tomnom tools httprobe meg assetfinder waybackurls unfurl
+* DONE change ssh port on remkbox
+* DONE blog on connecting twitch chat from emacs

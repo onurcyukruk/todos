@@ -1,2 +1,9 @@
 * TODO sign packets with your name -> let them know where to compalin
 * TODO oneliners.sh + auto yank to terminal with xdo
+* DONE twitch irc client connection config
+* DONE emacs irc libnotify desktop notifications
+* TODO telegram recon bot - check existing bots
+* TODO amass trace -> cron on remkbox
+* TODO learn magit 
+* TODO check out recursebuster -> head based requests 2 reqs -> saturates waf quick
+* TODO check out ffuf
