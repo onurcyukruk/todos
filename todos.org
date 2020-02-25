@@ -7,3 +7,13 @@
 * TODO learn magit 
 * TODO check out recursebuster -> head based requests 2 reqs -> saturates waf quick
 * TODO check out ffuf
+* TODO remove slow apis from amass config
+* TODO add to checklist waybackurls | grep cgi -> for old sites
+* DONE Common Vulnerabilities 
+* DONE Completely Unprotected Functionality
+* DONE Identifier-Based Functions
+* DONE Multistage Functions
+* DONE Static Files
+* DONE Platform Misconfiguration
+* DONE Insecure Access Control Methods
+
