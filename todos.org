@@ -7,13 +7,7 @@
 * TODO check out ffuf
 * TODO remove slow apis from amass config
 * TODO add to checklist waybackurls | grep cgi -> for old sites
-* DONE Injecting into Interpreted Contexts 
-* DONE Bypassing a Login
-* DONE Injecting into SQL
-* DONE Exploiting a Basic Vulnerability
-* DONE Injecting into Different Statement Types
-* TODO Finding SQL Injection Bugs
-* TODO Fingerprinting the Database
+* DONE Fingerprinting the Database
 * TODO The UNION Operator
 * TODO Extracting Useful Data
 * TODO Extracting Data with UNION

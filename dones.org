@@ -19,3 +19,9 @@
 * DONE Static Files
 * DONE Platform Misconfiguration
 * DONE Insecure Access Control Methods
+* DONE Injecting into Interpreted Contexts 
+* DONE Bypassing a Login
+* DONE Injecting into SQL
+* DONE Exploiting a Basic Vulnerability
+* DONE Injecting into Different Statement Types
+* DONE Finding SQL Injection Bugs
