@@ -1,5 +1,5 @@
-* DONE tmux installation & config on locals and remotes <2020-02-13 Thu>
-** DONE tmux local and remote color codes <2020-02-13 Thu>
+* DONE tmux installation & config on locals and remotes 
+* DONE tmux local and remote color codes
 * DONE tmux local remote config
 * DONE resolver cleanup oneliner ->  clean resolver.txt from ipv6 addresses
 * DONE install cronot.sh & settings
@@ -9,4 +9,13 @@
 * DONE write a oneliner for extracting domain names from amass.json
 * DONE install tomnom tools httprobe meg assetfinder waybackurls unfurl
 * DONE change ssh port on remkbox
+* DONE twitch irc client connection config
+* DONE emacs irc libnotify desktop notifications
 * DONE blog on connecting twitch chat from emacs
+* DONE Common Vulnerabilities 
+* DONE Completely Unprotected Functionality
+* DONE Identifier-Based Functions
+* DONE Multistage Functions
+* DONE Static Files
+* DONE Platform Misconfiguration
+* DONE Insecure Access Control Methods

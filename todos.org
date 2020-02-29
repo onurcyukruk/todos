@@ -1,7 +1,5 @@
 * TODO sign packets with your name -> let them know where to compalin
 * TODO oneliners.sh + auto yank to terminal with xdo
-* DONE twitch irc client connection config
-* DONE emacs irc libnotify desktop notifications
 * TODO telegram recon bot - check existing bots
 * TODO amass trace -> cron on remkbox
 * TODO learn magit 
@@ -9,11 +7,4 @@
 * TODO check out ffuf
 * TODO remove slow apis from amass config
 * TODO add to checklist waybackurls | grep cgi -> for old sites
-* DONE Common Vulnerabilities 
-* DONE Completely Unprotected Functionality
-* DONE Identifier-Based Functions
-* DONE Multistage Functions
-* DONE Static Files
-* DONE Platform Misconfiguration
-* DONE Insecure Access Control Methods
-
+* TODO chap 9 
