@@ -11,4 +11,16 @@
 * DONE Bypassing a Login
 * DONE Injecting into SQL
 * DONE Exploiting a Basic Vulnerability
-* TODO Injecting into Different Statement Types
+* DONE Injecting into Different Statement Types
+* TODO Finding SQL Injection Bugs
+* TODO Fingerprinting the Database
+* TODO The UNION Operator
+* TODO Extracting Useful Data
+* TODO Extracting Data with UNION
+* TODO Bypassing Filters
+* TODO Second-Order SQL Injection
+* TODO Advanced Exploitation
+* TODO Beyond SQL Injection: Escalating the Database Attack
+* TODO Using SQL Exploitation Tools
+* TODO SQL Syntax and Error Reference
+* TODO Preventing SQL Injection
