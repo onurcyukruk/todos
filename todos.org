@@ -18,3 +18,15 @@
 * TODO Using SQL Exploitation Tools
 * TODO SQL Syntax and Error Reference
 * TODO Preventing SQL Injection
+* TODO Injecting into NoSQL
+* TODO Injecting into MongoDB
+* TODO Injecting into XPath
+* TODO Subverting Application Logic
+* TODO Informed XPath Injection
+* TODO Blind XPath Injection
+* TODO Finding XPath Injection Flaws
+* TODO Preventing XPath Injection
+* TODO Injecting into LDAP
+* TODO Exploiting LDAP Injection
+* TODO Finding LDAP Injection Flaws
+* TODO Preventing LDAP Injection
