@@ -7,4 +7,8 @@
 * TODO check out ffuf
 * TODO remove slow apis from amass config
 * TODO add to checklist waybackurls | grep cgi -> for old sites
-* TODO chap 9 
+* DONE Injecting into Interpreted Contexts 
+* DONE Bypassing a Login
+* DONE Injecting into SQL
+* DONE Exploiting a Basic Vulnerability
+* TODO Injecting into Different Statement Types
