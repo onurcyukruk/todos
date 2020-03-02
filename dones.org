@@ -25,3 +25,5 @@
 * DONE Exploiting a Basic Vulnerability
 * DONE Injecting into Different Statement Types
 * DONE Finding SQL Injection Bugs
+* DONE Fingerprinting the Database
+* DONE The UNION Operator

@@ -7,9 +7,7 @@
 * TODO check out ffuf
 * TODO remove slow apis from amass config
 * TODO add to checklist waybackurls | grep cgi -> for old sites
-* DONE Fingerprinting the Database
-* TODO The UNION Operator
-* TODO Extracting Useful Data
+* DONE Extracting Useful Data
 * TODO Extracting Data with UNION
 * TODO Bypassing Filters
 * TODO Second-Order SQL Injection
