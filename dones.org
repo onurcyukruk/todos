@@ -27,3 +27,4 @@
 * DONE Finding SQL Injection Bugs
 * DONE Fingerprinting the Database
 * DONE The UNION Operator
+* DONE Extracting Useful Data
