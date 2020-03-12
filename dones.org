@@ -29,3 +29,4 @@
 * DONE Fingerprinting the Database
 * DONE The UNION Operator
 * DONE Extracting Useful Data
+* DONE Extracting Data with UNION
