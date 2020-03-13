@@ -9,8 +9,8 @@
 * TODO add to checklist waybackurls | grep cgi -> for old sites
 * ---------------------------------BOOK---------------------------------------
 * DONE Bypassing Filters
-* TODO Second-Order SQL Injection
-* TODO Advanced Exploitation
+* DONE Second-Order SQL Injection
+* DONE Advanced Exploitation
 * TODO Beyond SQL Injection: Escalating the Database Attack
 * TODO Using SQL Exploitation Tools
 * TODO SQL Syntax and Error Reference
