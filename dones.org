@@ -30,3 +30,5 @@
 * DONE The UNION Operator
 * DONE Extracting Useful Data
 * DONE Extracting Data with UNION
+* DONE Bypassing Filters
+* DONE Second-Order SQL Injection
