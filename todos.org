@@ -9,9 +9,6 @@
 * TODO add to checklist waybackurls | grep cgi -> for old sites
 * ---------------------------------BOOK---------------------------------------
 * DONE Beyond SQL Injection: Escalating the Database Attack
-* DONE Using SQL Exploitation Tools
-* DONE SQL Syntax and Error Reference
-* DONE Preventing SQL Injection
 * TODO Injecting into NoSQL
 * TODO Injecting into MongoDB
 * TODO Injecting into XPath
