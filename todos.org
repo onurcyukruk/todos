@@ -9,14 +9,14 @@
 * TODO add to checklist waybackurls | grep cgi -> for old sites
 * ---------------------------------BOOK---------------------------------------
 * DONE Beyond SQL Injection: Escalating the Database Attack
-* TODO Injecting into NoSQL
-* TODO Injecting into MongoDB
-* TODO Injecting into XPath
-* TODO Subverting Application Logic
-* TODO Informed XPath Injection
-* TODO Blind XPath Injection
-* TODO Finding XPath Injection Flaws
-* TODO Preventing XPath Injection
+* DONE Injecting into NoSQL
+* DONE Injecting into MongoDB
+* DONE Injecting into XPath
+* DONE Subverting Application Logic
+* DONE Informed XPath Injection
+* DONE Blind XPath Injection
+* DONE Finding XPath Injection Flaws
+* DONE Preventing XPath Injection
 * TODO Injecting into LDAP
 * TODO Exploiting LDAP Injection
 * TODO Finding LDAP Injection Flaws
