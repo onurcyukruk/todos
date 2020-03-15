@@ -32,3 +32,4 @@
 * DONE Extracting Data with UNION
 * DONE Bypassing Filters
 * DONE Second-Order SQL Injection
+* DONE Advanced Exploitation
