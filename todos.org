@@ -8,7 +8,6 @@
 * TODO remove slow apis from amass config
 * TODO add to checklist waybackurls | grep cgi -> for old sites
 * ---------------------------------BOOK---------------------------------------
-* DONE Advanced Exploitation
 * TODO Beyond SQL Injection: Escalating the Database Attack
 * TODO Using SQL Exploitation Tools
 * TODO SQL Syntax and Error Reference
