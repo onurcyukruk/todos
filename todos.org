@@ -21,3 +21,27 @@
 * TODO Exploiting LDAP Injection
 * TODO Finding LDAP Injection Flaws
 * TODO Preventing LDAP Injection
+* TODO Injecting OS Commands
+* TODO Example 1: Injecting Via Perl
+* TODO Example 2: Injecting Via ASP
+* TODO Injecting Through Dynamic Execution
+* TODO Finding OS Command Injection Flaws
+* TODO Finding Dynamic Execution Vulnerabilities
+* TODO Preventing OS Command Injection
+* TODO Preventing Script Injection Vulnerabilities
+* TODO Manipulating File Paths
+* TODO Path Traversal Vulnerabilities
+* TODO File Inclusion Vulnerabilities 
+* TODO Injecting into XML Interpreters
+* TODO Injecting XML External Entities
+* TODO Injecting into SOAP Services
+* TODO Finding and Exploiting SOAP Injection
+* TODO Preventing SOAP Injection
+* TODO Injecting into Back-end HTTP Requests
+* TODO Server-side HTTP Redirection
+* TODO HTTP Parameter Injection
+* TODO Injecting into Mail Services
+* TODO E-mail Header Manipulation
+* TODO SMTP Command Injection
+* TODO Finding SMTP Injection Flaws
+* TODO Preventing SMTP Injection
