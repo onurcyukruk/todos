@@ -15,7 +15,7 @@
 ** TODO LAB Blind SQL injection with out-of-band interaction
 ** TODO LAB Blind SQL injection with out-of-band data exfiltration
 ** DONE LAB SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
-** TODO LAB SQL injection vulnerability allowing login bypass
+** DONE LAB SQL injection vulnerability allowing login bypass
 * Cross-site scripting
 ** TODO LAB Reflected XSS into HTML context with nothing encoded
 ** TODO LAB Reflected XSS into HTML context with most tags and attributes blocked
