@@ -1,7 +1,7 @@
 * Web Security Academy All labs
 * SQL injection
-** TODO LAB SQL injection UNION attack, determining the number of columns returned by the query
-** TODO LAB SQL injection UNION attack, finding a column containing text
+** DONE LAB SQL injection UNION attack, determining the number of columns returned by the query
+** DONE LAB SQL injection UNION attack, finding a column containing text
 ** TODO LAB SQL injection UNION attack, retrieving data from other tables
 ** TODO LAB SQL injection UNION attack, retrieving multiple values in a single column
 ** TODO LAB SQL injection attack, querying the database type and version on Oracle
