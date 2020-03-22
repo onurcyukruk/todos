@@ -157,3 +157,6 @@ GET /filter?category=Pets'+UNION+SELECT+'abc','def'# HTTP/1.1 -> kolonlari buldu
 ** TODO LAB Targeted web cache poisoning using an unknown header
 ** TODO LAB Web cache poisoning to exploit a DOM vulnerability via a cache with strict cacheability criteria
 ** TODO LAB Combining web cache poisoning vulnerabilities
+
+test
+cGVzdA==
