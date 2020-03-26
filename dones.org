@@ -44,3 +44,8 @@
 * DONE Informed XPath Injection
 * DONE Blind XPath Injection
 * DONE Finding XPath Injection Flaws
+* DONE Preventing XPath Injection
+* DONE Injecting into LDAP
+* DONE Exploiting LDAP Injection
+* DONE Finding LDAP Injection Flaws
+* DONE Preventing LDAP Injection
