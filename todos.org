@@ -9,10 +9,10 @@
 * TODO add to checklist waybackurls | grep cgi -> for old sites
 * ---------------------------------BOOK---------------------------------------
 * DONE Preventing XPath Injection
-* TODO Injecting into LDAP
-* TODO Exploiting LDAP Injection
-* TODO Finding LDAP Injection Flaws
-* TODO Preventing LDAP Injection
+* DONE Injecting into LDAP
+* DONE Exploiting LDAP Injection
+* DONE Finding LDAP Injection Flaws
+* DONE Preventing LDAP Injection
 * TODO Injecting OS Commands
 * TODO Example 1: Injecting Via Perl
 * TODO Example 2: Injecting Via ASP
