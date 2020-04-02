@@ -7,9 +7,10 @@
 * TODO check out ffuf
 * TODO remove slow apis from amass config
 * TODO add to checklist waybackurls | grep cgi -> for old sites
-* TODO pietonic for blind shell exploit
+* DONE pietonic for blind shell exploit
 https://github.com/tamuctf/TAMUctf-2020/tree/master/Misc/blind
 https://www.youtube.com/watch?v=fZ3mPRctbO0
+* TODO finish linkedin cv
 * ---------------------------------BOOK---------------------------------------
 * TODO Injecting OS Commands
 * TODO Example 1: Injecting Via Perl
