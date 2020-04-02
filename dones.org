@@ -12,6 +12,7 @@
 * DONE twitch irc client connection config
 * DONE emacs irc libnotify desktop notifications
 * DONE blog on connecting twitch chat from emacs
+* DONE pietonic for blind shell exploit
 * ---------------------------------BOOK---------------------------------------
 * DONE Common Vulnerabilities 
 * DONE Completely Unprotected Functionality
