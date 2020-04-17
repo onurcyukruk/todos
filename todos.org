@@ -8,6 +8,8 @@
 * TODO remove slow apis from amass config
 * TODO add to checklist waybackurls | grep cgi -> for old sites
 * TODO finish linkedin cv
+* TODO record every bounty program on platforms for automation
+* TODO 
 * ---------------------------------BOOK---------------------------------------
 * TODO Injecting OS Commands
 * TODO Example 1: Injecting Via Perl
