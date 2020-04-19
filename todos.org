@@ -9,7 +9,8 @@
 * TODO add to checklist waybackurls | grep cgi -> for old sites
 * TODO finish linkedin cv
 * TODO record every bounty program on platforms for automation
-* TODO 
+* DONE learn vi/vim online
+* TODO pgp mail emacs 
 * ---------------------------------BOOK---------------------------------------
 * TODO Injecting OS Commands
 * TODO Example 1: Injecting Via Perl

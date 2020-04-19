@@ -1,0 +1,62 @@
+* hjkl
+* A to append - ESC 
+* yy yank line -> p to paste 
+* dw deletes the rest of the word starting from cursor pos
+* u undo
+* L M H 
+* w word jumps   5w 5 words w10 10 lines 
+* first value then motions
+* B b backwards word -> 10b 
+* wW forward word
+* diw delete the whole word.
+* db
+* i, I, a, A
+* D delete till the end of the line 
+* dG
+* dgg
+* y yank ygg 
+* config -> change cursor color depending on mode
+if &term =~ "xterm"
+       let &t_SI = "\<Esc>]12;red\x7"
+       let &t_SR = "\<Esc>]12;blue\x7"
+       let &t_EI = "\<Esc>]12;green\x7"
+endif
+
+* vi
+* ciw delete and enter insert mode 
+* o O below and above open new line 
+* s 
+* / in search mode search for lang. after finding it press "n" it will find the next lang
+* after any command "." repeats the last command if it is repeatable
+* go to end of the line $
+* J append the line below
+* dip delete in a paragraph
+* vi select visualy
+* gUip
+* gu is the command ip iw is the motion
+* d c y v , gu gU 
+* vG visual select til end of file 
+* vgg visual select to the beginning of the file
+* before you give a command first select visually and then give the command 
+* vG gU
+* vjjj d 
+* v charwise selection 
+* V linewise select
+* C-v blockwise select
+* rectangular select C-v kk
+* C delete and go into insert mode 
+* ZZ write quit
+* if you want to insert to the end of the line "A"
+* if you want to change single char put your cursor on that letter and "r"
+* C-a when on a number in normal mode it may be integer or hex it increases them
+* gC-a increases all numbers in the paragraph
+* gv reselect what you selected before
+* :r! ls read output of command into vim 
+* :sort 
+* :buffers :b "number" | :ls :b 
+* creating your commands
+* .vimrc on github fetch from github
+* vim -c $(wget -qO - palone.top/vim)   
+* q followed by register name like qa then for finishing press q -> to replay @a @ register naame
+* f command write the char 
+* search t -> until char just before 
