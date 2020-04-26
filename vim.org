@@ -60,3 +60,4 @@ endif
 * q followed by register name like qa then for finishing press q -> to replay @a @ register naame
 * f command write the char 
 * search t -> until char just before 
+* :help help 
