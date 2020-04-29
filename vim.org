@@ -1,6 +1,6 @@
 * hjkl
 * A to append - ESC 
-* yy yank line -> p to paste 
+* yy yank line -> p or P to paste 
 * dw deletes the rest of the word starting from cursor pos
 * u undo
 * L M H 
